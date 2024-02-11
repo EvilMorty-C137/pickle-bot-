@@ -1,4 +1,4 @@
-# Privacy Policy for Discord Bot
+# Privacy for Discord Bot
 
 **Effective Date:** 2, 1, 2024
 
