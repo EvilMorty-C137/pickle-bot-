@@ -31,4 +31,4 @@ Pickle Bot - Terms of Service
 10. **Limitation of Liability**:
     The operators of the Bot shall not be liable for any indirect, incidental, special, consequential, or punitive damages.
 
-By using Pickle Bot, you agree to abide by these Terms of Service. If you have any questions or concerns, please contact the operators at our Support Server. [ **Supprt Server**](https://discord.gg/KfgGTt7CWk)
+By using Pickle Bot, you agree to abide by these Terms of Service. If you have any questions or concerns, please contact the operators at our Support Server. [ **Supprt Server**](https://discord.gg/KfgGTt7CWk) | [ **Dev**](https://discord.com/users/623829287459487744/)
